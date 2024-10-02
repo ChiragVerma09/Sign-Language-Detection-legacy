@@ -1,4 +1,4 @@
-# Sign-Language-Detection
+# Sign-Language-Detection (legacy)
 ##  Deployment Done
 ## Web Deployment Done
 
